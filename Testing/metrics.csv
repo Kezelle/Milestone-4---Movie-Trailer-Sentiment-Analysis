@@ -1,0 +1,4 @@
+﻿Model,Accuracy,Macro-F1,Hard-cases acc.
+VADER,0.558,0.5314,0.0
+NLTK + NB,0.46,0.41,0.0
+TextBlob,0.518,0.3974,0.0
